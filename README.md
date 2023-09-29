@@ -1,2 +1,3 @@
 # AI
-artificial
+artificial intelligence
+my first repo
